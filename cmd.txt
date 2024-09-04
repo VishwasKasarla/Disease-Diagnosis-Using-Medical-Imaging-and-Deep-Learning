@@ -1,0 +1,13 @@
+python environment -> py -m venv test
+environment activate -> .\test\Scripts\activate 
+deactivate -> deactivate
+server start -> py server.py
+
+// cd client
+client start -> npm run dev
+
+git add .
+
+git commit -m "<message>"
+
+git push -u origin main
